@@ -1,2 +1,2 @@
-# Geolocation-API
+# HTML5-Geolocation-API
 GPS Location
